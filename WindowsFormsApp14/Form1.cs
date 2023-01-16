@@ -47,6 +47,7 @@ namespace WindowsFormsApp14
 
         }
 
+        
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (comboBox1.SelectedIndex == 0) { selected = 0; };
